@@ -1,4 +1,4 @@
-# ulauncher_frbd_theme
+# Flat Remix Blue Darkest Theme for Ulauncher
 
 ## Description
 

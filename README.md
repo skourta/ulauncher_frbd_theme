@@ -4,7 +4,7 @@
 
 A custom Ulancher theme to go with the Flat Remix Blue Darkest shell theme of Gnome
 <p align="center">
-  <img  height="500" src="https://i.imgur.com/hbUkbMU.jpg">
+  <img  height="500" src="https://user-images.githubusercontent.com/34842963/92083284-b6d16700-edbd-11ea-97ec-05cc8b8297f9.jpg">
 </p>
 
 ## How to use:
